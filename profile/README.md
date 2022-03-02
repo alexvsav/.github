@@ -31,7 +31,7 @@ We are a French startup crafting a platform for developers to improve their code
 
 ## 🌏 Our projects
 
-All the links to our solutions and integrations are available on [our website](www.ponicode.com/download)
+All the links to our solutions and integrations are available on [our platform](www.ponicode.com/download)
 
 ### 🔌 VSCode and IntelliJ Extensions
 
